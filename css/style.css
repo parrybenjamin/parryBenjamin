@@ -1,0 +1,53 @@
+body {
+
+	/* Organise content */
+	text-align: center;
+
+	/*Full page Background */
+	background-image:url('../images/beauchaneLake.jpg');
+  
+  	background-size: cover;
+  	background-position: center;
+  	background-attachment: fixed;
+}
+
+h1 {
+	margin-top: -8px;
+}
+
+h2 {
+	margin-top: -15px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	/* Placement on page */
+	width: 600px;
+	padding: 15px;
+	margin-top: 40px;
+	margin: auto auto;
+
+	/* Styling */
+	border-radius: 8px;
+	text-align: left;
+
+	/* Font Family */
+	font-family: 'Lato', sans-serif;
+
+	/* Colours */
+	color: #FFF7D8;
+	background-color: rgba(223,64,21, 0.7);
+	
+}
+
+.icons {
+	width: 50px;
+	padding: 9px;
+}
+
+#centering {
+	text-align: center;
+}
